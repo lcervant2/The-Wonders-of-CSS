@@ -1,0 +1,26 @@
+body {
+        background-color: rgb(0,255,255);
+    }
+p.one {
+	color: red;
+}
+p.two {
+	color: blue;
+}
+p.three {
+	color: green;
+}
+p.strong {
+	font-family: arial;
+}
+.styledFont {
+	color: green;
+}
+img {
+	border: orange;
+	border: 3px solid orange;
+}
+p.multiple {
+	color: orange;
+	font-size: 24px;
+}
